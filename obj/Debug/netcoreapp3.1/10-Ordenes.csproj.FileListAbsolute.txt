@@ -1,0 +1,28 @@
+C:\Users\Jheisson Zelaya.ITSPS-JHEISSONL\Downloads\c-sharp-main\Ejercicios\10-Ordenes\bin\Debug\netcoreapp3.1\10-Ordenes.exe
+C:\Users\Jheisson Zelaya.ITSPS-JHEISSONL\Downloads\c-sharp-main\Ejercicios\10-Ordenes\bin\Debug\netcoreapp3.1\10-Ordenes.deps.json
+C:\Users\Jheisson Zelaya.ITSPS-JHEISSONL\Downloads\c-sharp-main\Ejercicios\10-Ordenes\bin\Debug\netcoreapp3.1\10-Ordenes.runtimeconfig.json
+C:\Users\Jheisson Zelaya.ITSPS-JHEISSONL\Downloads\c-sharp-main\Ejercicios\10-Ordenes\bin\Debug\netcoreapp3.1\10-Ordenes.runtimeconfig.dev.json
+C:\Users\Jheisson Zelaya.ITSPS-JHEISSONL\Downloads\c-sharp-main\Ejercicios\10-Ordenes\bin\Debug\netcoreapp3.1\10-Ordenes.dll
+C:\Users\Jheisson Zelaya.ITSPS-JHEISSONL\Downloads\c-sharp-main\Ejercicios\10-Ordenes\bin\Debug\netcoreapp3.1\10-Ordenes.pdb
+C:\Users\Jheisson Zelaya.ITSPS-JHEISSONL\Downloads\c-sharp-main\Ejercicios\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.csproj.AssemblyReference.cache
+C:\Users\Jheisson Zelaya.ITSPS-JHEISSONL\Downloads\c-sharp-main\Ejercicios\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jheisson Zelaya.ITSPS-JHEISSONL\Downloads\c-sharp-main\Ejercicios\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.AssemblyInfoInputs.cache
+C:\Users\Jheisson Zelaya.ITSPS-JHEISSONL\Downloads\c-sharp-main\Ejercicios\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.AssemblyInfo.cs
+C:\Users\Jheisson Zelaya.ITSPS-JHEISSONL\Downloads\c-sharp-main\Ejercicios\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.csproj.CoreCompileInputs.cache
+C:\Users\Jheisson Zelaya.ITSPS-JHEISSONL\Downloads\c-sharp-main\Ejercicios\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.dll
+C:\Users\Jheisson Zelaya.ITSPS-JHEISSONL\Downloads\c-sharp-main\Ejercicios\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.pdb
+C:\Users\Jheisson Zelaya.ITSPS-JHEISSONL\Downloads\c-sharp-main\Ejercicios\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.genruntimeconfig.cache
+C:\Users\User\OneDrive - Universidad Nacional Autónoma de Honduras\CLASES UNAH\LENGUAJE II\10-Ordenes\bin\Debug\netcoreapp3.1\10-Ordenes.exe
+C:\Users\User\OneDrive - Universidad Nacional Autónoma de Honduras\CLASES UNAH\LENGUAJE II\10-Ordenes\bin\Debug\netcoreapp3.1\10-Ordenes.deps.json
+C:\Users\User\OneDrive - Universidad Nacional Autónoma de Honduras\CLASES UNAH\LENGUAJE II\10-Ordenes\bin\Debug\netcoreapp3.1\10-Ordenes.runtimeconfig.json
+C:\Users\User\OneDrive - Universidad Nacional Autónoma de Honduras\CLASES UNAH\LENGUAJE II\10-Ordenes\bin\Debug\netcoreapp3.1\10-Ordenes.runtimeconfig.dev.json
+C:\Users\User\OneDrive - Universidad Nacional Autónoma de Honduras\CLASES UNAH\LENGUAJE II\10-Ordenes\bin\Debug\netcoreapp3.1\10-Ordenes.dll
+C:\Users\User\OneDrive - Universidad Nacional Autónoma de Honduras\CLASES UNAH\LENGUAJE II\10-Ordenes\bin\Debug\netcoreapp3.1\10-Ordenes.pdb
+C:\Users\User\OneDrive - Universidad Nacional Autónoma de Honduras\CLASES UNAH\LENGUAJE II\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Universidad Nacional Autónoma de Honduras\CLASES UNAH\LENGUAJE II\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Universidad Nacional Autónoma de Honduras\CLASES UNAH\LENGUAJE II\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Universidad Nacional Autónoma de Honduras\CLASES UNAH\LENGUAJE II\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.AssemblyInfo.cs
+C:\Users\User\OneDrive - Universidad Nacional Autónoma de Honduras\CLASES UNAH\LENGUAJE II\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Universidad Nacional Autónoma de Honduras\CLASES UNAH\LENGUAJE II\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.dll
+C:\Users\User\OneDrive - Universidad Nacional Autónoma de Honduras\CLASES UNAH\LENGUAJE II\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.pdb
+C:\Users\User\OneDrive - Universidad Nacional Autónoma de Honduras\CLASES UNAH\LENGUAJE II\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.genruntimeconfig.cache
